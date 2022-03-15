@@ -9,7 +9,7 @@ There are two datasets:
 
 ## Repository Structure
 In this repo, we breakdown our End to End modelling pipeline and use a seperate Notebook for each process.
-The process is entailed as follows: 
+The Code Folder contains our process which is entailed as follows: 
 1. Exploratory Data Analysis
 2. Data Cleaning and Pre-Processing 
 3. Solving the class imbalance issue
@@ -17,3 +17,10 @@ The process is entailed as follows:
 5. Modelling & Hyperparameter Optimization
 6. Model Explaination
 7. Results
+
+The Pictures Folder contains all of the screenshots we used in our presentation, and some of our visualization output.
+
+The Automatic_Analysis folder contains the result from Pandas Profiling (Automatic EDA library)
+
+## Presentation Slides
+A Rough Draft of the presentation slides can be found here: https://docs.google.com/presentation/d/1TSxYwJy-8RPQgrMXTs8Cb-ag7hUpsb4q29BoZ7dX5Z4/edit?usp=sharing
