@@ -21,7 +21,7 @@ The Code Folder contains our process which is entailed as follows:
 4. Feature Engineering and Feature Selection
 5. Modelling & Hyperparameter Optimization
 6. Model Explaination
-7. Results
+7. Results & Final Submission
 
 ## Presentation Slides
 A Rough Draft of the presentation slides can be found here: https://docs.google.com/presentation/d/1TSxYwJy-8RPQgrMXTs8Cb-ag7hUpsb4q29BoZ7dX5Z4/edit?usp=sharing
