@@ -9,8 +9,11 @@ There are two datasets:
 
 ## Repository Structure
 In this repo, we breakdown our End to End modelling pipeline and use a seperate Notebook for each process.
+
 The Pictures Folder contains all of the screenshots we used in our presentation, and some of our visualization output.
+
 The Automatic_Analysis folder contains the result from Pandas Profiling (Automatic EDA library)
+
 The Code Folder contains our process which is entailed as follows: 
 1. Exploratory Data Analysis
 2. Data Cleaning and Pre-Processing 
