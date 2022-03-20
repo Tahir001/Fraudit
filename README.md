@@ -16,25 +16,30 @@ The Automatic_Analysis folder contains the result from Pandas Profiling (Automat
 
 The Code Folder contains our process which is entailed as follows: 
 1. Exploratory Data Analysis
-2. Data Cleaning and Pre-Processing 
-3. Solving the class imbalance issue
-4. Feature Engineering and Feature Selection
-5. Modelling & Hyperparameter Optimization
-6. Model Explaination
-7. Results & Final Submission
+    * Dataset, Datatypes, Missing Data, Duplicates, Graphs
+    * Data Cleaning Methods
+    * Data Prep -- Column Types, Date Manipulations, Removing outliers
+    * Missing Values - Simple Imputer (Mean, Median, Random Imputation, Average Growth
+    * Missing Values - Three Year Average
+    * Missing Values - Complex Imputer (Deterministic, Stochastic Regression, KNN
+2.Further Analysis (Barplots, Scatterplots, CustomerID, Classes, Clustering
+2. Solving the class imbalance issue
+5. Feature Engineering and Feature Selection
+6. Modelling & Hyperparameter Optimization
+7. Model Explaination
+8. Results & Final Submission
 
 # Table of Contents:
-1. [Initial Set-Up & Import Data](#1)
+1. [Initial Set-Up & Import Data]
 2. [Exploratory Data Analysis](#2) 
     1. [Dataset, Datatypes, Missing Data, Duplicates, Graphs](#2.1)
-    2. [Data Cleaning Methods](#2.2)
+    2. [Data Cleaning Methods]
         1. [Data Prep -- Column Types, Date Manipulations, Removing outliers](#2.2.1)
-        2. [Missing Values - Simple Imputer (Mean, Median, Random Imputation, Average Growth)](#2.2.2)
-        3. [Missing Values - Three Year Average](#2.2.3)
-        4. [Missing Values - Complex Imputer (Deterministic, Stochastic Regression, KNN)](#2.2.4)
+        2. [Missing Values - Simple Imputer (Mean, Median, Random Imputation, Average Growth)
+        3. Missing Values - Three Year Average](#2.2.3)
+        4. [Missing Values - Complex Imputer (Deterministic, Stochastic Regression, KNN)]
     2. [Further Analysis (Barplots, Scatterplots, CustomerID, Classes, Clustering)](#2.2)
     3. [Data Distributions by Features & Investment Type](#2.3)
-<br>
 4. [Feature Engineering & Feature Selection](#4)
     1. [Creating Additional Financial Features](#4.1)
     2. [Correlation & Co-variance - Pearsons, Spearmans](#4.2)
