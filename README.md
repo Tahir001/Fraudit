@@ -20,6 +20,7 @@ Note that the above is only a preview, if you'd like an interactive report, feel
 ## Repository Structure
 In this repo, we breakdown our End to End modelling pipeline and use a seperate Notebook for each process.
 
+```
 Fraudit
 ├── Automatic_Analysis
 │   ├── Canadian_Companies_Analysis.html
@@ -44,7 +45,7 @@ Fraudit
     └── Training Machine Learning Models.ipynb
 
 5 directories, 16 files
-
+```
 
 The Pictures Folder contains all of the screenshots we used in our presentation, and some of our visualization output.
 
