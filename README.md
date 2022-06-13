@@ -7,6 +7,16 @@ There are two datasets:
 - Candian Companies Dataset - About 30k rows of canadian companies asking for Loans / Investments over the span of 3 years. 
 - General Companies Dataset - About 28k rows of companies (outside of Canada) asking for loans / investments over the span of last 3 years. 
 
+Due to confidentiality reasons, the raw data is not shared here. 
+
+## Reports 
+
+You can see some reports on the Canadian Companies Dataset and General Companies dataset here: 
+- https://htmlpreview.github.io/?https://github.com/Tahir001/Fraudit/blob/main/Automatic_Analysis/Canadian_Companies_Analysis.html
+- https://htmlpreview.github.io/?https://github.com/Tahir001/Fraudit/blob/main/Automatic_Analysis/General_Companies_Analysis.html
+
+Note that the above is only a preview, if you'd like an interactive report, feel free to download the .html files inside of the Automatic Analysis folder and play around with it. 
+
 ## Repository Structure
 In this repo, we breakdown our End to End modelling pipeline and use a seperate Notebook for each process.
 
