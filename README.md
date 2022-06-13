@@ -20,6 +20,32 @@ Note that the above is only a preview, if you'd like an interactive report, feel
 ## Repository Structure
 In this repo, we breakdown our End to End modelling pipeline and use a seperate Notebook for each process.
 
+Fraudit
+├── Automatic_Analysis
+│   ├── Canadian_Companies_Analysis.html
+│   └── General_Companies_Analysis.html
+├── Data
+│   └── Top 100 Features.xlsx
+├── LICENSE
+├── Pictures
+│   ├── Linked_lists.png
+│   ├── Ratios_Used_1.png
+│   └── Ratios_Used_2.png
+├── README.md
+└── Scripts
+    ├── Archived
+    ├── Data Pre-Processing & Class Imbalance Issue.ipynb
+    ├── Defining Base Models & Model Metrics.ipynb
+    ├── Exploratory Data Analysis & Data Cleaning.ipynb
+    ├── Feature Engineering.ipynb
+    ├── Feature Selection.ipynb
+    ├── Hyperparameter Optimization & Final Model.ipynb
+    ├── IMI CASE COMPETITION [Master Sheet].ipynb
+    └── Training Machine Learning Models.ipynb
+
+5 directories, 16 files
+
+
 The Pictures Folder contains all of the screenshots we used in our presentation, and some of our visualization output.
 
 The Automatic_Analysis folder contains the result from Pandas Profiling (Automatic EDA library)
